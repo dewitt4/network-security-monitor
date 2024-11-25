@@ -30,7 +30,7 @@ Required dependencies:
 Basic implementation:
 
 ```python
-from security_monitor import NetworkSecurityMonitor
+from network_security_monitor import NetworkSecurityMonitor
 
 # Initialize the monitor
 monitor = NetworkSecurityMonitor()
