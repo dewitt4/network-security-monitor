@@ -78,7 +78,7 @@ YYYY-MM-DD HH:MM:SS - LEVEL - MESSAGE
 3. Implement changes with tests
 4. Submit a pull request
 
-Please follow the [code of conduct](CODE_OF_CONDUCT.md).
+[Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
