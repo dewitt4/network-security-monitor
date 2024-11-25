@@ -25,7 +25,6 @@ source venv/bin/activate  # or `venv\Scripts\activate` on Windows
 
 # Install dependencies
 pip install -r requirements.txt
-pip install -r requirements-dev.txt
 ```
 
 ## Coding Standards
