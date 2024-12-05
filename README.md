@@ -14,7 +14,7 @@ A Python-based network security monitoring tool for detecting and logging suspic
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/network-security-monitor
+git clone https://github.com/dewitt4/network-security-monitor
 cd network-security-monitor
 pip install -r requirements.txt
 ```
